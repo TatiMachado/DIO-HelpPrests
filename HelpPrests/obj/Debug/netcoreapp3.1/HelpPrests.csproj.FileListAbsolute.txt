@@ -1,0 +1,13 @@
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\bin\Debug\netcoreapp3.1\HelpPrests.exe
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\bin\Debug\netcoreapp3.1\HelpPrests.deps.json
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\bin\Debug\netcoreapp3.1\HelpPrests.runtimeconfig.json
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\bin\Debug\netcoreapp3.1\HelpPrests.runtimeconfig.dev.json
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\bin\Debug\netcoreapp3.1\HelpPrests.dll
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\bin\Debug\netcoreapp3.1\HelpPrests.pdb
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\obj\Debug\netcoreapp3.1\HelpPrests.AssemblyInfoInputs.cache
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\obj\Debug\netcoreapp3.1\HelpPrests.AssemblyInfo.cs
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\obj\Debug\netcoreapp3.1\HelpPrests.csproj.CoreCompileInputs.cache
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\obj\Debug\netcoreapp3.1\HelpPrests.dll
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\obj\Debug\netcoreapp3.1\HelpPrests.pdb
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\obj\Debug\netcoreapp3.1\HelpPrests.genruntimeconfig.cache
+C:\Users\Tati\source\repos\DIO\NetFundamentals\HelpPrests\HelpPrests\obj\Debug\netcoreapp3.1\HelpPrests.csprojAssemblyReference.cache
