@@ -133,11 +133,11 @@ namespace HelpPrests
         private static void PopulaTabelas()
         {
             Cliente c1 = 
-                new Cliente(1, "Tati", new DateTime(2018, 9, 25), "02717390022", "avenida", 1992, "93260064", "Centro", "Esteio", "RS");
+                new Cliente(1, "Tati", new DateTime(2018, 9, 25), "99999999999", "avenida", 1992, "999999064", "Centro", "Esteio", "RS");
             Cliente c2 = 
-                new Cliente(2, "Jeh", new DateTime(2018, 9, 20), "02732937029", "rua", 305, "93260333", "Centro", "São Leopoldo", "RS");
+                new Cliente(2, "Jeh", new DateTime(2018, 9, 20), "8888888888", "rua", 305, "93260333", "Centro", "São Leopoldo", "RS");
             Cliente c3 = 
-                new Cliente(3, "Inara", new DateTime(2018, 9, 15), "60252308034", "Travessa", 444, "933939393", "Centro", "Canoas", "RS");
+                new Cliente(3, "Inara", new DateTime(2018, 9, 15), "77777777777", "Travessa", 444, "933939393", "Centro", "Canoas", "RS");
             listaClientes.Add(c1);
             listaClientes.Add(c2);
             listaClientes.Add(c3);
