@@ -35,7 +35,6 @@ Abaixo segue o layout das telas iniciais do sistema.
 
 *************************
 **A G E N D A M E N T O S**
-*************************
 <br>Informe a opção desejada:
 1. Incluir
 2. Atender Agend.
